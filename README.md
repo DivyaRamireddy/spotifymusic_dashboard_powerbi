@@ -1,7 +1,7 @@
 # spotifymusic_dashboard_powerbi
 spotify_musicdashboard_powerbi
 🎧 Spotify Streaming Performance & Music Trends Dashboard -- An interactive Power BI dashboard built to analyze Spotify music data and uncover insights about song popularity, streaming trends, genres, and artist performance. This project demonstrates data visualization, KPI tracking, and trend analysis using Power BI.
-
+  
 📌 Project Overview -- This project analyzes a curated dataset of 220 Telugu songs from popular singers to explore: Music popularity trends Genre distribution Streaming performance Repeat listening patterns Artist performance comparison The dashboard provides interactive insights into Spotify streaming data, allowing users to filter songs by artist, genre, popularity, and year.
 
 🎯 Project Objectives-- The main goals of this project were to: • Build a fully interactive Power BI dashboard • Track Spotify streaming KPIs • Analyze song popularity trends over time • Identify top-performing genres and artists • Understand repeat listening behavior
